@@ -1,5 +1,10 @@
 #Data analytics
  -splunk
  -collectd
- 
+
+#build automation
+ -travis-ci (open-source projects)
+ -bamboo
+ -jenkins
+
  
